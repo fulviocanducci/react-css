@@ -3,7 +3,7 @@ body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  background-color: #7159c7;
+  background-color: #efefef;
 }
 
 .container {
@@ -17,12 +17,12 @@ body {
 }
 
 header {
-  background-color: yellow;
+  background-color: cadetblue;
   grid-area: header;
 }
 
 main {
-  background-color: blue;
+  background-color: chocolate;
   grid-area: main;
 }
 
